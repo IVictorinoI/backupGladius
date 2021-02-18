@@ -90,7 +90,7 @@ MaxStackSize=1048576
 ImageBase=4194304
 ExeDescription=
 [Directories]
-OutputDir=C:\ProjetosDelphi\votacao\Sistema
+OutputDir=C:\Desenvolvimento\Delphi\Votacao\Sistema
 UnitOutputDir=
 PackageDLLOutputDir=
 PackageDCPOutputDir=
@@ -138,5 +138,6 @@ Comments=
 Count=1
 Item0=WinTypes=Windows;WinProcs=Windows;DbiTypes=BDE;DbiProcs=BDE;DbiErrs=BDE;
 [HistoryLists\hlOutputDirectorry]
-Count=1
-Item0=C:\ProjetosDelphi\votacao\Sistema
+Count=2
+Item0=C:\Desenvolvimento\Delphi\Votacao\Sistema
+Item1=C:\ProjetosDelphi\votacao\Sistema
